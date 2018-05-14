@@ -3,6 +3,9 @@
 ## Aim
 To generate linguistic complexity for a short string (sampleseq.fasta) and also each sequence in nd2.fasta.
 
+## Script
+python_assignment4.py
+
 ## Input file
 sampleseq.fasta
 nd2.fasta
